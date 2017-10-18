@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ThePlanner:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ThePlanner_jar</output-path>
+    <root id="archive" name="ThePlanner.jar">
+      <element id="module-output" name="ThePlanner" />
+    </root>
+  </artifact>
+</component>
